@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	".."
+	"github.com/zetamatta/go-ansicfile"
 )
 
 func main() {
